@@ -1,0 +1,41 @@
+date,state,new_cases,new_tests,state_name,region,population_millions,target_cases_per_million,cases_per_million,positivity_percent,above_target
+2021-03-01,NSW,8,12000,New South Wales,East,8.17,1.0,0.98,0.067,False
+2021-03-01,QLD,1,7000,Queensland,East,5.18,0.3,0.19,0.014,False
+2021-03-01,VIC,3,9000,Victoria,South,6.68,0.6,0.45,0.033,False
+2021-03-01,WA,0,4500,Western Australia,West,2.67,0.4,0.0,0.0,False
+2021-03-02,NSW,6,12500,New South Wales,East,8.17,1.0,0.73,0.048,False
+2021-03-02,QLD,0,7100,Queensland,East,5.18,0.3,0.0,0.0,False
+2021-03-02,VIC,2,9200,Victoria,South,6.68,0.6,0.3,0.022,False
+2021-03-02,WA,1,4600,Western Australia,West,2.67,0.4,0.37,0.022,False
+2021-03-03,NSW,7,13000,New South Wales,East,8.17,1.0,0.86,0.054,False
+2021-03-03,QLD,2,7300,Queensland,East,5.18,0.3,0.39,0.027,True
+2021-03-03,VIC,4,9400,Victoria,South,6.68,0.6,0.6,0.043,False
+2021-03-03,WA,0,4550,Western Australia,West,2.67,0.4,0.0,0.0,False
+2021-03-04,NSW,5,12800,New South Wales,East,8.17,1.0,0.61,0.039,False
+2021-03-04,QLD,1,7200,Queensland,East,5.18,0.3,0.19,0.014,False
+2021-03-04,VIC,2,9300,Victoria,South,6.68,0.6,0.3,0.022,False
+2021-03-04,WA,1,4700,Western Australia,West,2.67,0.4,0.37,0.021,False
+2021-03-05,NSW,9,13500,New South Wales,East,8.17,1.0,1.1,0.067,True
+2021-03-05,QLD,1,7500,Queensland,East,5.18,0.3,0.19,0.013,False
+2021-03-05,VIC,3,9600,Victoria,South,6.68,0.6,0.45,0.031,False
+2021-03-05,WA,2,4800,Western Australia,West,2.67,0.4,0.75,0.042,True
+2021-03-06,NSW,10,14000,New South Wales,East,8.17,1.0,1.22,0.071,True
+2021-03-06,QLD,2,7700,Queensland,East,5.18,0.3,0.39,0.026,True
+2021-03-06,VIC,5,9800,Victoria,South,6.68,0.6,0.75,0.051,True
+2021-03-06,WA,1,4900,Western Australia,West,2.67,0.4,0.37,0.02,False
+2021-03-07,NSW,8,13800,New South Wales,East,8.17,1.0,0.98,0.058,False
+2021-03-07,QLD,1,7600,Queensland,East,5.18,0.3,0.19,0.013,False
+2021-03-07,VIC,4,9900,Victoria,South,6.68,0.6,0.6,0.04,False
+2021-03-07,WA,1,5000,Western Australia,West,2.67,0.4,0.37,0.02,False
+2021-03-08,NSW,7,14200,New South Wales,East,8.17,1.0,0.86,0.049,False
+2021-03-08,QLD,0,7800,Queensland,East,5.18,0.3,0.0,0.0,False
+2021-03-08,VIC,3,10100,Victoria,South,6.68,0.6,0.45,0.03,False
+2021-03-08,WA,2,5100,Western Australia,West,2.67,0.4,0.75,0.039,True
+2021-03-09,NSW,11,14500,New South Wales,East,8.17,1.0,1.35,0.076,True
+2021-03-09,QLD,3,8000,Queensland,East,5.18,0.3,0.58,0.038,True
+2021-03-09,VIC,6,10300,Victoria,South,6.68,0.6,0.9,0.058,True
+2021-03-09,WA,1,5200,Western Australia,West,2.67,0.4,0.37,0.019,False
+2021-03-10,NSW,9,14700,New South Wales,East,8.17,1.0,1.1,0.061,True
+2021-03-10,QLD,2,8100,Queensland,East,5.18,0.3,0.39,0.025,True
+2021-03-10,VIC,4,10400,Victoria,South,6.68,0.6,0.6,0.038,False
+2021-03-10,WA,1,5300,Western Australia,West,2.67,0.4,0.37,0.019,False

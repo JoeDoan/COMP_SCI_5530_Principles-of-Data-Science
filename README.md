@@ -18,6 +18,15 @@ This repository contains coursework and assignments for COMP-SCI 5530.
 │   ├── cleaned_data/
 │   │   └── hepatitis_cleaned.csv               # Cleaned dataset
 │   └── Doan_Joe_Week1_Checkpoint.ipynb         # Week 1 checkpoint notebook
+├── ICP2/                                       # In-Class Practice 2
+│   ├── content/                                # Raw daily and metadata tables
+│   │   ├── covid_state_daily_part1.csv
+│   │   ├── covid_state_daily_part2.csv
+│   │   ├── state_benchmarks.csv
+│   │   └── state_metadata.csv
+│   ├── Doan_Joe_Week2_Checkpoint.ipynb         # Week 2 checkpoint notebook
+│   ├── week2_integrated_cases.csv              # Integrated dataset export
+│   └── week2_dashboard.png                     # Visual dashboard (line & bar)
 ├── Data_visualization/                         # Assignment 1 - Part 2
 │   ├── raw_data/
 │   │   └── StudentsPerformance.csv             # Stage 1: Raw student performance dataset
@@ -53,6 +62,14 @@ Introductory in-class checkpoint working with the Hepatitis dataset:
 - Basic data cleaning and export of cleaned CSV
 
 ---
+
+## ICP2 — Week 2 Checkpoint (`ICP2/`)
+
+COVID-19 data integration, validation, rate calculations, and dashboard visualization:
+- **Tasks 1–3 (Ingestion & Merge):** Loading multi-part daily case files, asserting row counts, validating many-to-one metadata join, and auditing merge indicators.
+- **Tasks 4–5 (Derivations & Reshaping):** Calculating population-normalized infection rates (`cases_per_million`), positivity percentages, benchmark targets, and pivoting long-form data to wide format.
+- **Tasks 6–7 (Visualization & Export):** Creating and exporting a two-panel dashboard (`week2_dashboard.png`), running integrity assertions, and exporting the final integrated dataset (`week2_integrated_cases.csv`).
+- **Optional Challenge:** Reusable `audit_merge` function for key uniqueness, unmatched rows, and outer-merge diagnosis.
 
 ## Assignment 1
 
